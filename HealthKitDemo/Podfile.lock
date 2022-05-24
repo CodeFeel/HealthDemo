@@ -1,0 +1,40 @@
+PODS:
+  - FDFullscreenPopGesture (1.1)
+  - Reusable (4.1.2):
+    - Reusable/Storyboard (= 4.1.2)
+    - Reusable/View (= 4.1.2)
+  - Reusable/Storyboard (4.1.2)
+  - Reusable/View (4.1.2)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwifterBaseKit (0.3.0)
+  - Then (2.7.0)
+
+DEPENDENCIES:
+  - FDFullscreenPopGesture
+  - Reusable
+  - SnapKit
+  - SVProgressHUD
+  - SwifterBaseKit (~> 0.3.0)
+  - Then
+
+SPEC REPOS:
+  trunk:
+    - FDFullscreenPopGesture
+    - Reusable
+    - SnapKit
+    - SVProgressHUD
+    - SwifterBaseKit
+    - Then
+
+SPEC CHECKSUMS:
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  Reusable: 6bae6a5e8aa793c9c441db0213c863a64bce9136
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwifterBaseKit: d33e566d541e2445686ec695309d86cc458aaec3
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+
+PODFILE CHECKSUM: e27ea4d4be9445484eb5fca876c49655c485f4c4
+
+COCOAPODS: 1.11.2
